@@ -5,6 +5,7 @@
 # Run
 ```
 brownie compile
+brownie compile
 brownie run scripts/test_deploy.py
 ```
 
